@@ -1,0 +1,4 @@
+baseURL = 'http://ginlistic.com/'
+languageCode = 'en-en'
+title = 'Ginlistic'
+theme = 'hugo-atlantic-theme'
