@@ -1,9 +1,8 @@
 ---
 title: Home
-meta_title: 'Hugo Tailwind 3 Theme - Hugo Atlantic'
-date: 2020-03-22
+meta_title: 'Ginlistc'
 heading:
-  title: "<strong>Hugo Tailwind</strong> Starter Blog"
-  description: "Atlantic is a clean and modern <strong>Tailwind 3</strong> theme for Hugo."
+  title: "<strong>Ginlistic</strong> is a massive list of gin"
+  description: "This is a <strong>work in progress</strong> with a theme for Hugo."
   align: left
 ---
