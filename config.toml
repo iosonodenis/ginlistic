@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "en-en"
+languageCode = "en-us"
 title = "Ginlistic"
 theme = "hugo-atlantic-theme"
 enableGitInfo = false
@@ -7,13 +7,13 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
 metaDataFormat = "yaml"
-paginate = 3
+paginate = 10
 
 [params]
   google_analytics_id = ""
 
   [params.homepage]
-    postLimit = 6
+    postLimit = 5
     
   [params.logo]
     showLogoTextOnDesktop = true
@@ -41,7 +41,7 @@ paginate = 3
     meta_og_image = ""
 
 [build]
-  writeStats = true
+  writeStats = false
 
 [permalinks]
     posts = ":slug/"
@@ -57,3 +57,13 @@ paginate = 3
     name = "Home"
     url = "/"
     weight = 1
+
+[[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
