@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>London Dry on Ginlistic</title>
+    <link>/categories/london-dry/</link>
+    <description>Recent content in London Dry on Ginlistic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/categories/london-dry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sipsmith London Dry Gin</title>
+      <link>/sipsmith-london-dry-gin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sipsmith-london-dry-gin/</guid>
+      <description>Sipsmith London Dry Gin is a classic gin from the renowned Sipsmith Distillery in London, UK. It is crafted using traditional methods and only the finest ingredients, including Macedonian juniper berries, coriander seeds, angelica root, liquorice root, orris root, and lemon peel.
+The botanicals are steeped in a copper pot still overnight and then distilled in small batches, resulting in a smooth and well-balanced gin with a classic London Dry style.</description>
+    </item>
+    
+  </channel>
+</rss>

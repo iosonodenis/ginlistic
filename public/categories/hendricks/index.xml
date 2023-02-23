@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hendrick&#39;s on Ginlistic</title>
+    <link>/categories/hendricks/</link>
+    <description>Recent content in Hendrick&#39;s on Ginlistic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/categories/hendricks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hendrick&#39;s</title>
+      <link>/hendricks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hendricks/</guid>
+      <description>Hendrick&amp;rsquo;s Gin it&amp;rsquo;s a Scottish gin that has become increasingly popular in recent years. Hendrick&amp;rsquo;s Gin is known for its unique flavor profile, which is achieved through the use of a blend of eleven botanicals, including juniper, coriander, and citrus peel, as well as more unusual ingredients such as cucumber and rose petals.
+Hendrick&amp;rsquo;s Gin is distilled using a small-batch method that involves the use of both a copper pot still and a rare Carter-Head still, which helps to preserve the delicate flavors of the botanicals.</description>
+    </item>
+    
+    <item>
+      <title>Hendrick&#39;s Lunar Gin</title>
+      <link>/hendricks-lunar-gin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hendricks-lunar-gin/</guid>
+      <description>Hendrick&amp;rsquo;s Lunar Gin is a limited edition release from Hendrick&amp;rsquo;s Gin, a Scottish distillery known for its unique and unconventional approach to gin-making. It was inspired by the mysterious and ephemeral qualities of the moon and is intended to be a sippable and contemplative gin for moments of calm and introspection.
+The gin is distilled with a selection of botanicals including juniper, coriander, angelica root, orris root, and orange peel, as well as more unusual ingredients like lemon verbena, silver birch, and moonflower.</description>
+    </item>
+    
+  </channel>
+</rss>

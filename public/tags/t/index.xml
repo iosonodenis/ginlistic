@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T on Ginlistic</title>
+    <link>/tags/t/</link>
+    <description>Recent content in T on Ginlistic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/tags/t/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tanqueray London Dry Gin</title>
+      <link>/tanqueray-london-dry-gin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tanqueray-london-dry-gin/</guid>
+      <description>About the Tanqueray distillery Tanqueray was first produced in England in the 1830s and has since become a popular gin worldwide. Its distinctive taste is attributed to a unique blend of botanicals, including juniper, coriander, angelica root, and liquorice. In addition to its classic London Dry Gin, Tanqueray also produces a range of other gins, including Tanqueray No. Ten, which is made with fresh citrus fruits, and Tanqueray Rangpur, which is distilled with Rangpur limes for a citrusy twist.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canada on Ginlistic</title>
+    <link>/categories/canada/</link>
+    <description>Recent content in Canada on Ginlistic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/categories/canada/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empress 1908 Gin</title>
+      <link>/empress-1908-gin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/empress-1908-gin/</guid>
+      <description>About the Empress 1908 Gin Empress 1908 Gin is a Canadian gin that is named after the Fairmont Empress Hotel in Victoria, British Columbia. The gin is known for its distinctive purple color, which comes from the infusion of butterfly pea flower petals during the distillation process. In addition to the butterfly pea flower, the gin is also made with eight other botanicals, including juniper, coriander, grapefruit peel, ginger root, and rose petal.</description>
+    </item>
+    
+  </channel>
+</rss>

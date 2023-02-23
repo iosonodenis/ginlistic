@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N on Ginlistic</title>
+    <link>/tags/n/</link>
+    <description>Recent content in N on Ginlistic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/tags/n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nikka Coffey Gin</title>
+      <link>/nikka-coffey-gin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/nikka-coffey-gin/</guid>
+      <description>Nikka Coffey Gin is a premium Japanese gin produced by Nikka Whisky Distilling Company, which is known for its award-winning whiskies. The gin is made using a unique Coffey still, which was originally designed by Aeneas Coffey in the 19th century, and is rarely used for gin production. This still allows the distillers to create a high-quality spirit with a silky texture and a depth of flavor.
+The botanicals used in Nikka Coffey Gin are sourced from all over Japan, including yuzu from the north, sansho pepper from the central area, and kabosu and amanatsu from the south.</description>
+    </item>
+    
+  </channel>
+</rss>

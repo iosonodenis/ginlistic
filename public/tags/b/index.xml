@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B on Ginlistic</title>
+    <link>/tags/b/</link>
+    <description>Recent content in B on Ginlistic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Dec 2018 09:49:03 +1000</lastBuildDate><atom:link href="/tags/b/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bombay Sapphire</title>
+      <link>/bombay-sapphire/</link>
+      <pubDate>Thu, 20 Dec 2018 09:49:03 +1000</pubDate>
+      
+      <guid>/bombay-sapphire/</guid>
+      <description>About the Tanqueray London Dry Gin Bombay Sapphire was first introduced in 1987 and has since become a popular gin brand worldwide. Bombay Sapphire is a London Dry Gin that is made using a unique blend of ten botanicals, including juniper berries, coriander, angelica root, lemon peel, and grains of paradise.
+The recipe for Bombay Sapphire gin is based on a 1761 recipe developed by Thomas Dakin, who is considered to be one of the forefathers of English gin.</description>
+    </item>
+    
+    <item>
+      <title>Beefeater London Dry Gin</title>
+      <link>/beefeater-london-dry-gin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/beefeater-london-dry-gin/</guid>
+      <description>About the Beefeater London Dry Gin Beefeater London Dry Gin is a classic gin that has been around since 1820. It is made in London and is considered to be a quintessential example of a London dry gin. Beefeater is made using a combination of 9 botanicals including juniper, angelica root, angelica seeds, coriander seeds, liquorice, almonds, orris root, Seville oranges, and lemon peel.
+Beefeater is known for its balanced flavor, with a prominent juniper taste, as well as citrus notes from the Seville oranges and lemon peel.</description>
+    </item>
+    
+    <item>
+      <title>The Botanist Islay Dry Gin</title>
+      <link>/the-botanist-islay-dry-gin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/the-botanist-islay-dry-gin/</guid>
+      <description>The Botanist Islay Dry Gin is a premium gin produced by the Bruichladdich Distillery, which is best known for its whisky production. This gin is made from 22 hand-foraged botanicals from the island of Islay, Scotland, including wild Islay juniper, apple mint, chamomile, heather, and thistle, as well as a few other secret ingredients.
+The gin is distilled in a unique Lomond still, which was originally designed to produce whisky but has been adapted for gin production.</description>
+    </item>
+    
+  </channel>
+</rss>

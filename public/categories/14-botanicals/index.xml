@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>14 botanicals on Ginlistic</title>
+    <link>/categories/14-botanicals/</link>
+    <description>Recent content in 14 botanicals on Ginlistic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/categories/14-botanicals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elephant Gin</title>
+      <link>/elephant-gin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/elephant-gin/</guid>
+      <description>About the Elephant Gin Elephant Gin is a premium handcrafted gin made in Germany using 14 botanicals, including rare African ingredients such as baobab, Buchu plant, and African wormwood. The name Elephant Gin was inspired by the founders&amp;rsquo; love for Africa and their desire to support African elephant conservation. A portion of the proceeds from every bottle sold goes to charities that work to protect elephants and their habitats in Africa.</description>
+    </item>
+    
+  </channel>
+</rss>

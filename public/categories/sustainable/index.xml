@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sustainable on Ginlistic</title>
+    <link>/categories/sustainable/</link>
+    <description>Recent content in Sustainable on Ginlistic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/categories/sustainable/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elephant Gin</title>
+      <link>/elephant-gin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/elephant-gin/</guid>
+      <description>About the Elephant Gin Elephant Gin is a premium handcrafted gin made in Germany using 14 botanicals, including rare African ingredients such as baobab, Buchu plant, and African wormwood. The name Elephant Gin was inspired by the founders&amp;rsquo; love for Africa and their desire to support African elephant conservation. A portion of the proceeds from every bottle sold goes to charities that work to protect elephants and their habitats in Africa.</description>
+    </item>
+    
+    <item>
+      <title>Greater Than London Dry Gin</title>
+      <link>/greater-than-london-dry-gin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/greater-than-london-dry-gin/</guid>
+      <description>Greater Than London Dry Gin is made with 9 botanicals, including juniper berries, coriander seeds, angelica root, orris root, lemon peel, orange peel, licorice, fennel, and chamomile. The gin is made in small batches using a copper pot still, and the botanicals are steeped in a neutral spirit for 24 hours before distillation.
+The resulting gin has a crisp and citrusy flavor profile, with notes of juniper, lemon, and coriander. It is smooth and well-balanced, with a clean and refreshing finish.</description>
+    </item>
+    
+  </channel>
+</rss>

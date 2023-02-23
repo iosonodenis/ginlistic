@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Germany on Ginlistic</title>
+    <link>/categories/germany/</link>
+    <description>Recent content in Germany on Ginlistic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/categories/germany/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elephant Gin</title>
+      <link>/elephant-gin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/elephant-gin/</guid>
+      <description>About the Elephant Gin Elephant Gin is a premium handcrafted gin made in Germany using 14 botanicals, including rare African ingredients such as baobab, Buchu plant, and African wormwood. The name Elephant Gin was inspired by the founders&amp;rsquo; love for Africa and their desire to support African elephant conservation. A portion of the proceeds from every bottle sold goes to charities that work to protect elephants and their habitats in Africa.</description>
+    </item>
+    
+    <item>
+      <title>Monkey 47</title>
+      <link>/monkey-47/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/monkey-47/</guid>
+      <description>Monkey 47 is a premium gin that is made in the Black Forest region of Germany. It is a complex and nuanced gin that is made with 47 different botanicals, including juniper, lavender, and lingonberries, among others. The gin is distilled in small batches using a combination of traditional maceration and vapor infusion techniques, which allows the flavors of the botanicals to develop in a gentle and controlled way. With a relatively high alcohol content of 47%, Monkey 47 is a gin that is designed for gin enthusiasts who appreciate the complex and layered flavors that a premium gin can offer.</description>
+    </item>
+    
+  </channel>
+</rss>
