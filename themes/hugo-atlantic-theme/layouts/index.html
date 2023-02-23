@@ -3,6 +3,13 @@
 {{ partial "heading/heading.html" (dict "title" .Params.heading.title "description" .Params.heading.description
 "align" .Params.heading.align "date" .Params.heading.date)}}
 
+
+<div class="heading">
+<h2 class="text-xl text-gray-600 mt-2">We have <strong>{{ len (where .Site.RegularPages "Section" "==" "posts") }}</strong> gin for you: {{ range .Site.Taxonomies.categories.ByCount }}
+    <span><a class="p-1 px-3 mr-1 mb-1 inline-block text-xs font-mono rounded bg-green-200 text-green-800 hover:bg-blue-200 hover:text-blue-800 transition duration-300 ease-in-out" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>  <sup>{{ .Count }}</sup></span>
+  {{ end }}</h2>
+</div>
+
 <main class="py-6">
     {{ $pages := where $.Site.RegularPages "Type" "posts" }}
     {{ $limit := .Site.Params.homepage.postLimit | default 3 }}
