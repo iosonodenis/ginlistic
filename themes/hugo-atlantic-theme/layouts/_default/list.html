@@ -4,6 +4,7 @@
 .Params.heading.align "date" .Params.heading.date)}}
 
 <main class="py-6">
+    <h2>Title in list template</h2>
     {{ $paginator := .Paginate (where .Pages "Type" "posts") }}
     {{ range $paginator.Pages }}
     <div class="mb-12">

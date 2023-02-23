@@ -3,8 +3,8 @@ title: "Tanqueray London Dry Gin"
 categories: ["England", "London Dry Gin"]
 tags: ["T"]
 description: Probably the gin that all of us know
-thumbnail: https://source.unsplash.com/YmQ0-nmWcV0/640x360
-image: https://source.unsplash.com/5_0Lckamg38/1600x900
+thumbnail: https://source.unsplash.com/VvO4JOt3ckw/640x360
+image: https://source.unsplash.com/VvO4JOt3ckw/1600x600
 ---
 
 ## About the Tanqueray distillery

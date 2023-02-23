@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Ginlistic"
 theme = "hugo-atlantic-theme"
-enableGitInfo = false
+enableGitInfo = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
@@ -13,7 +13,7 @@ paginate = 10
   google_analytics_id = ""
 
   [params.homepage]
-    postLimit = 5
+    postLimit = 6
     
   [params.logo]
     showLogoTextOnDesktop = true
@@ -59,11 +59,21 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
+    name = "Japanese gins"
+    url = "/categories/japan/"
     weight = 2
+
+[[menu.main]]
+    name = "Indian gins"
+    url = "/categories/india/"
+    weight = 2
+
+[[menu.main]]
+    name = "Tonic Waters"
+    url = "/tonic-waters/"
+    weight = 5
 
 [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 10

@@ -4,8 +4,8 @@ categories: ["England", "London Dry Gin"]
 tags: ["B"]
 date: 2018-12-20T09:49:03+10:00
 description: Probably the gin that all of us know
-thumbnail: https://source.unsplash.com/YmQ0-nmWcV0/640x360 
-image: "https://source.unsplash.com/MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8/1600x900"
+thumbnail: 
+image: 
 ---
 
 ## About the Tanqueray London Dry Gin
