@@ -1,151 +1,249 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>/posts/</loc>
     <lastmod>2023-02-22T08:17:01+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/b/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/bombay-sapphire/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/england/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/london-dry-gin/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/14-botanicals/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/a/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
-    <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+    <lastmod>2023-02-23T23:14:58+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/aviation-american-gin/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/awarded/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/beefeater-london-dry-gin/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/canada/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/e/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/elephant-gin/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/empress-1908-gin/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/g/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/germany/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/gin-mare-mediterranean-gin/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/greater-than-london-dry-gin/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/h/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/hapusa-gin/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/hendricks/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/hendricks/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/hendricks-lunar-gin/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/india/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/j/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/jaisalmer-indian-craft-gin/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/japan/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/london-dry/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/m/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/monkey-47/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/n/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/nikka-coffey-gin/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/r/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/roku-gin/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/s/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/scotland/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/sipsmith-london-dry-gin/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/spain/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/stranger-sons-gin/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/sustainable/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/t/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tanqueray-london-dry-gin/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/the-botanist-islay-dry-gin/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/united-states/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
   </url>
+  
 </urlset>
