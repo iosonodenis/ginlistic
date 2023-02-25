@@ -38,6 +38,10 @@
   </url>
   
   <url>
+    <loc>/categories/12-botanicals/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/14-botanicals/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
   </url>
@@ -45,6 +49,14 @@
   <url>
     <loc>/categories/40-abv/</loc>
     <lastmod>2023-02-24T16:37:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/431-abv/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/475-abv/</loc>
   </url>
   
   <url>
@@ -257,6 +269,10 @@
   </url>
   
   <url>
+    <loc>/star-of-bombay-gin/</loc>
+  </url>
+  
+  <url>
     <loc>/stranger-sons-gin/</loc>
     <lastmod>2023-02-23T17:57:48+01:00</lastmod>
   </url>
@@ -282,8 +298,24 @@
   </url>
   
   <url>
+    <loc>/tags/u/</loc>
+  </url>
+  
+  <url>
+    <loc>/ungava-gin/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/united-states/</loc>
     <lastmod>2023-02-24T16:37:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/v/</loc>
+  </url>
+  
+  <url>
+    <loc>/victoria-gin/</loc>
   </url>
   
 </urlset>

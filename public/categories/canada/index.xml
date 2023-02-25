@@ -15,5 +15,25 @@
       <description>About the Empress 1908 Gin Empress 1908 Gin is a Canadian gin that is named after the Fairmont Empress Hotel in Victoria, British Columbia. The gin is known for its distinctive purple color, which comes from the infusion of butterfly pea flower petals during the distillation process. In addition to the butterfly pea flower, the gin is also made with eight other botanicals, including juniper, coriander, grapefruit peel, ginger root, and rose petal.</description>
     </item>
     
+    <item>
+      <title>Ungava Gin</title>
+      <link>/ungava-gin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ungava-gin/</guid>
+      <description>Ungava Gin is a premium Canadian gin made by the Ungava Spirits Co. and named after the Ungava Peninsula in the far north of Quebec, Canada. The gin is made using botanicals native to the Arctic region, including wild rose hips, cloudberry, Labrador tea, crowberry, Arctic blend, and Nordic juniper, which give it a distinct and refreshing flavor.
+Ungava Gin is also known for its vibrant yellow color, which comes from the infusion of the botanicals and herbs during the distillation process.</description>
+    </item>
+    
+    <item>
+      <title>Victoria Gin</title>
+      <link>/victoria-gin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/victoria-gin/</guid>
+      <description>Victoria Gin is a small-batch, handcrafted gin produced in British Columbia, Canada. It is made with locally sourced, organic botanicals, including juniper, rose petals, coriander, citrus peel, orris root, and cinnamon. The gin is distilled using a copper pot still, which is said to produce a smoother and more nuanced flavor.
+Victoria Gin is known for its balanced and complex flavor profile, with prominent notes of juniper and citrus, as well as hints of floral and spice.</description>
+    </item>
+    
   </channel>
 </rss>

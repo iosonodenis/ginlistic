@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V on Ginlistic</title>
+    <link>/tags/v/</link>
+    <description>Recent content in V on Ginlistic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/tags/v/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Victoria Gin</title>
+      <link>/victoria-gin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/victoria-gin/</guid>
+      <description>Victoria Gin is a small-batch, handcrafted gin produced in British Columbia, Canada. It is made with locally sourced, organic botanicals, including juniper, rose petals, coriander, citrus peel, orris root, and cinnamon. The gin is distilled using a copper pot still, which is said to produce a smoother and more nuanced flavor.
+Victoria Gin is known for its balanced and complex flavor profile, with prominent notes of juniper and citrus, as well as hints of floral and spice.</description>
+    </item>
+    
+  </channel>
+</rss>
